@@ -1,0 +1,8 @@
+file-sharing-server
+**/Dockerfile*
+**/.git
+**/.vs
+**/.vscode
+**/.gitignore
+LICENSE
+README.md
